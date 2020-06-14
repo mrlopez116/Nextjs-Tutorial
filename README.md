@@ -1,4 +1,4 @@
-# Essentials
+# Essentials (NOTES)
 **Summary:** These are the different compenents or functionalities we should be using as we develop HIP
 
 
